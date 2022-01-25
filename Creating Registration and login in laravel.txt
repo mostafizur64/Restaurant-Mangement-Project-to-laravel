@@ -1,0 +1,13 @@
+                                  
+
+
+
+ 
+                             Creating Registration and login in laravel
+                              
+                             1.composer require Laravel/jetstream
+                             2.php artisan jetstream:install livewire
+                             3.npm install
+                             4.npm run dev
+                             5.php artisan migrate
+                             6.php artisan serve
